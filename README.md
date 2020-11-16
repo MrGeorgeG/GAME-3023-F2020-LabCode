@@ -1,4 +1,4 @@
-# GAME3023-F2020-LabCode
+# GAME-3023-F2020-LabCode
 
 Assets licensed under Creative Commons
 https://creativecommons.org/licenses/
